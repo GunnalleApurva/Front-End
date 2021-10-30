@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <title>Assignment 1</title>
+    <style>
+        p
+        {
+            text-indent: 50px;
+            font-family: 'Times New Roman', Times, serif;
+            word-spacing: 5px;
+        }
+        a{
+            text-align: center;
+            font-size: 25;
+            
+        }
+    </style>
+</head>
+<body>
+    <p>In 2067, crop blights and dust storms threaten humanity's survival. Cooper, a widowed engineer and former NASA pilot turned farmer, lives with his father-in-law,<i> Donald</i>, his 15-year-old son, <i>Tom</i>, and 10-year-old daughter, Murphy <b>"Murph"</b>. After a dust storm, strange dust patterns inexplicably appear in Murphy's bedroom; she attributes the anomaly to a ghost. Cooper eventually deduces the patterns were caused by gravity variations and they represent geographic coordinates in binary code. Cooper follows the coordinates to a secret NASA facility headed by <b>Professor John Brand</b>. </p>
+    <h1 text-align = "center"><b>Off to the Stars, With Grief, Dread and Regret</b></h1>
+    <p>The possibility that such a <b>“you”</b> might be out there, in a position to grant clemency, is one of the movie’s tantalizing puzzles. Some kind of message seems to be coming across the emptiness of space and along the kinks in the fabric of time, offering a twinkle of hope amid humanity’s rapidly darkening prospects. For most of <strong>“Interstellar”</strong> the working hypothesis is that a benevolent alien race, dwelling somewhere on the far side of a wormhole near one of the moons of Saturn, is sending data across the universe, encrypted advice that just may save us if we can decode it fast enough.</p>
+
+    <h2>List of accolades received by Interstellar</h2>
+    <ol>
+        <li>Academy Award for Best Visual Effects</li>
+        <li>American Film Institue Award, Movie of the Year</li>
+        <li>Critic's Choice Award for Best Sci-fi/Horror Movie</li>
+        <li>Empire Awards, Best Director</li>
+    </ol>
+    <a>Did you watch this movie? If not, then this is a sign.</a>
+    <br>
+    <a href="https://www.looper.com/391003/movies-like-interstellar-that-every-christopher-nolan-fan-should-   watch/">More like Interstellar</a>
+  <br>
+    <a href="https://en.wikipedia.org/wiki/Interstellar_(film)">Read more</a >
+    <br>
+    
+</body>
+</html>
