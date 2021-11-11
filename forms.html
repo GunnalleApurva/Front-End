@@ -1,0 +1,86 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="forms.css">
+    <title>User Registration Form</title>
+</head>
+
+<body>
+
+    <!-- login/registration form -->
+
+    <form>
+        <!-- enclose all these divs in fieldset to get a border , i think it is not beautiful -->
+        <fieldset>
+        <legend>Signup form</legend>
+
+        <!-- username -->
+        <div>
+            <label for="Username" class="">Username</label>
+            <input type="text" name="Username" id="Username" placeholder="Enter Username" autocomplete="off" ;>
+        </div>
+
+        <div>
+            <label for="Password" class="">Password</label>
+            <input type="password" name="Password" placeholder="Enter Password" autocomplete="off" ;>
+        </div>
+
+        <div>
+            <label for="Salary" class="">Salary</label>
+            <input type="number" name="Salary" id="salary" placeholder="Salary" autocomplete="off">
+        </div>
+
+        <div>
+            <label for="email" class="">Email</label>
+            <input type="name" name="Email" id="email" placeholder="Enter Email">
+        </div>
+
+        <div>
+            <label for="dob" class="">Dob</label>
+            <input type="date" name="Dob" id="dob">
+        </div>
+
+        <div>
+            <label for="display-picture">Select DP</label>
+            <input type="file" name="display-picture" id="display-picture">
+        </div>
+
+        <div>
+            <label for="state" >Select State</label>
+            <select name="state" id="state">
+                <option value="TS">Telangana</option>
+                <option value="AP">Rajasthan</option>
+                <option value="KA">Karnataka</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="feedback" class="" > Feedback</label>
+            <textarea  name = "" id="feedback" cols = "50" rows = "6"  class="" ></textarea>
+        </div>
+
+        <div>
+            <label for="" class="" >Select your skills</label>
+            <input type = "checkbox" name = "HTML" id = "html">
+            <label for="html">HTML</label>
+            <input type = "checkbox" name = "JavaScript" id = "js">
+            <label for="js">JavaScript</label>
+        </div>
+
+        <!-- Button for submission -->
+
+        <div>
+            <button type="submit">Login</button>
+        </div>
+
+
+
+    </fieldset>
+
+    </form>
+
+</body>
+
+</html>
